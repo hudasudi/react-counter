@@ -1,0 +1,29 @@
+body{
+  background:rgb(47, 88, 90);
+  
+}
+.counter-container{
+  text-align: center;
+  font-family:'Times New Roman', Times, serif ;
+}
+.count-display{
+  font-size: 10em;
+  margin-bottom:50px;
+  margin-top: 0;
+  color: aliceblue;
+}
+.count-btn{
+  width: 150px;
+  height: 50px;
+  font-size: 1.5em;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: none;
+  color: aliceblue;
+  background-color:cadetblue;
+  margin: 0px 5px;
+  cursor: pointer;
+}
+.count-btn:hover{
+  background-color:rgb(36, 64, 65);
+}
