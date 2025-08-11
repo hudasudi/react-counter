@@ -12,5 +12,5 @@ The counter can be incremented, decremented, and reset.
 
 ## 🛠️ Technologies Used
 - ⚛️ React - useState()
-- 📜 JavaScript (ES6+) + onChange{}
+- 📜 JavaScript (ES6+) + onClick{}
 - 🎨 CSS (for styling)
