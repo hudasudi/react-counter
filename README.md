@@ -11,6 +11,6 @@ The counter can be incremented, decremented, and reset.
 ---
 
 ## 🛠️ Technologies Used
-- ⚛️ React
-- 📜 JavaScript (ES6+)
+- ⚛️ React - useState()
+- 📜 JavaScript (ES6+) + onChange{}
 - 🎨 CSS (for styling)
